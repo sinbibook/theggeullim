@@ -80,6 +80,7 @@ class IndexMapper extends BaseDataMapper {
      * 직접적인 애니메이션 등록 (fallback)
      */
     initDirectAnimations() {
+        console.log('Index Mapper: Using direct animations');
 
         const animationPairs = [
             { selector: '.room-item', className: 'animate-fade-in' },
@@ -549,6 +550,7 @@ class IndexMapper extends BaseDataMapper {
             }
 
             roomItem.innerHTML = `
+                <div class="room-number short-text"></div>
                 <div class="room-image">
                     <img alt="${roomName}" loading="lazy" class="${imageClass}">
                 </div>
@@ -563,15 +565,6 @@ class IndexMapper extends BaseDataMapper {
 
             // src는 직접 할당 (data URI 깨짐 방지)
             roomItem.querySelector('.room-image img').src = roomImage;
-
-            // 전체 박스 클릭 이벤트 추가
-            roomItem.addEventListener('click', (e) => {
-                // 버튼 클릭인 경우 이벤트 전파 방지
-                if (e.target.classList.contains('room-view-btn')) {
-                    return;
-                }
-                navigateTo('room', room.id);
-            });
 
             roomsContainer.appendChild(roomItem);
         });
