@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-02-13T00:47:31.302Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-02-13T00:50:38.537Z",
     "templateType": "full_banner_wipe",
     "propertyId": "7656873f-d928-414f-876a-c3b3356ec3eb",
     "homepageId": "abb60682-6181-4003-9701-9b504c233c61"
@@ -1249,9 +1249,9 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "1c750e59-c081-4b35-b926-e464db9d3b74",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/index_closing/1770943638403-cv4ab594d8n.jpg",
-                    "sortOrder": 3,
+                    "id": "70199ecf-794b-42ac-adf0-5ee0f1329177",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/index_closing/1770943827103-9rfb2v0vx7.jpg",
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   }
@@ -1312,35 +1312,35 @@
                   {
                     "id": "cd27a64a-0cb7-4a53-9ef8-6817b7e5322e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/index_gallery/1770943436161-os2u7fddyua.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "c4024fda-31d3-44b4-97bf-f4e73fea59f6",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/index_gallery/1770943638402-46bg3ywmrva.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 4,
                     "description": "용화해변",
                     "isSelected": true
                   },
                   {
                     "id": "33a20a32-fb08-4a9a-a2a0-3cb71096fb57",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/index_gallery/1770943436161-1zv5ql4ad28.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "b4b9fe31-d864-4b44-a85d-cdabfd2cfd1f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/index_gallery/1770943436161-3wa71zieb4t.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "5204b982-d99e-4f8f-8d32-2ac5a38dc408",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/index_gallery/1770943638402-i03e8iv9ac.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 7,
                     "description": "공용바베큐",
                     "isSelected": true
                   }
@@ -2544,8 +2544,8 @@
           "id": "339acc6e-9e5e-43f2-94f1-937d86368e29",
           "images": [
             {
-              "id": "75d61c92-4d1a-48ff-a253-b5586b6fd7e5",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/roomtype_thumbnail/1770889664402-f9uh7fowhq.jpg",
+              "id": "de53962e-d293-4e98-a67e-3ce50dd478c7",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/roomtype_thumbnail/1770943715240-xpz8a4vgvl.jpg",
               "sortOrder": 6,
               "description": "",
               "isSelected": true,
