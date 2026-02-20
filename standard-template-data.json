@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-02-20T04:02:20.274Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-02-20T04:03:51.839Z",
     "templateType": "full_banner_wipe",
     "propertyId": "7656873f-d928-414f-876a-c3b3356ec3eb",
     "homepageId": "abb60682-6181-4003-9701-9b504c233c61"
@@ -1324,24 +1324,24 @@
                     "isSelected": true
                   },
                   {
+                    "id": "9a21032e-1ee3-4817-b28f-79f7d1d4af34",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/index_gallery/1771556714443-tyq94ww9dp9.jpg",
+                    "sortOrder": 1,
+                    "description": "테라스",
+                    "isSelected": true
+                  },
+                  {
                     "id": "c4024fda-31d3-44b4-97bf-f4e73fea59f6",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/index_gallery/1770943638402-46bg3ywmrva.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "용화해변",
                     "isSelected": true
                   },
                   {
                     "id": "b3fdcb9d-99d3-475d-a7b2-441bb10b5b9f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/index_gallery/1770943436161-syqrfdvhkso.jpg",
-                    "sortOrder": 2,
-                    "description": "객실내부",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "9a21032e-1ee3-4817-b28f-79f7d1d4af34",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/index_gallery/1771556714443-tyq94ww9dp9.jpg",
                     "sortOrder": 3,
-                    "description": "오션뷰",
+                    "description": "객실내부",
                     "isSelected": true
                   },
                   {
