@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-02-20T03:37:42.674Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-02-20T03:43:44.472Z",
     "templateType": "full_banner_wipe",
     "propertyId": "7656873f-d928-414f-876a-c3b3356ec3eb",
     "homepageId": "abb60682-6181-4003-9701-9b504c233c61"
@@ -115,13 +115,6 @@
             "isSelected": true
           },
           {
-            "id": "c3e945be-23d7-4982-9cf4-d301c4ccfa0d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b3242fc4-8995-41e8-81f8-c465b645bf86/main/1770890316706-68e9fnkl05m.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "ed7cbeb5-ec3d-4423-b2b1-8b85a0630774",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b3242fc4-8995-41e8-81f8-c465b645bf86/main/1770890316707-j3u78nac58b.jpg",
             "sortOrder": 4,
@@ -129,9 +122,9 @@
             "isSelected": true
           },
           {
-            "id": "e9c4ddfa-f86a-44b0-98ba-47a77c6e6d53",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b3242fc4-8995-41e8-81f8-c465b645bf86/main/1770890316706-qhyqp6tpflq.jpg",
-            "sortOrder": 0,
+            "id": "c3e945be-23d7-4982-9cf4-d301c4ccfa0d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b3242fc4-8995-41e8-81f8-c465b645bf86/main/1770890316706-68e9fnkl05m.jpg",
+            "sortOrder": 1,
             "description": "",
             "isSelected": true
           },
@@ -139,6 +132,20 @@
             "id": "634659ef-9dfa-4164-9f21-b9b714dd4240",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b3242fc4-8995-41e8-81f8-c465b645bf86/main/1770890316707-xb96qq2cd39.jpg",
             "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e9c4ddfa-f86a-44b0-98ba-47a77c6e6d53",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b3242fc4-8995-41e8-81f8-c465b645bf86/main/1770890316706-qhyqp6tpflq.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "1104f34c-4ab0-4cd4-99a3-9d5b432d22e0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b3242fc4-8995-41e8-81f8-c465b645bf86/main/1771558816143-kpk8clnxnl.jpg",
+            "sortOrder": 0,
             "description": "",
             "isSelected": true
           }
@@ -161,14 +168,14 @@
           {
             "id": "a7ef1b2d-d68f-423a-87c6-c4ee893b334c",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7120ec69-e88a-4b8c-92f8-c0fa1d463ba1/main/1770890318324-m2do690bon.jpg",
-            "sortOrder": 2,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true
           },
           {
             "id": "0c1aeb9a-55c7-4aa2-9fb4-4ee64b1a4de1",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7120ec69-e88a-4b8c-92f8-c0fa1d463ba1/main/1770890318324-wynsr0whbm.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true
           },
@@ -180,16 +187,16 @@
             "isSelected": true
           },
           {
-            "id": "609366e8-1fe8-4557-87ae-f59037bcca19",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7120ec69-e88a-4b8c-92f8-c0fa1d463ba1/main/1771558109046-fl8sjd2c66.jpg",
+            "id": "a8c07aed-482a-44cc-a3ae-f5918ede4ed3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7120ec69-e88a-4b8c-92f8-c0fa1d463ba1/main/1771558109046-j02dyizixp.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true
           },
           {
-            "id": "a8c07aed-482a-44cc-a3ae-f5918ede4ed3",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7120ec69-e88a-4b8c-92f8-c0fa1d463ba1/main/1771558109046-j02dyizixp.jpg",
-            "sortOrder": 1,
+            "id": "609366e8-1fe8-4557-87ae-f59037bcca19",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7120ec69-e88a-4b8c-92f8-c0fa1d463ba1/main/1771558109046-fl8sjd2c66.jpg",
+            "sortOrder": 4,
             "description": "",
             "isSelected": true
           }
@@ -1266,7 +1273,7 @@
                   {
                     "id": "e1d8988b-2508-41d6-93f3-6f050e5a4ba5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/index_hero/1770942861325-36suvmtw8im.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   }
@@ -1311,7 +1318,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "용화해변 가까이, 바다로 향하는 발걸음이 가벼워지는 곳.\n산책하듯 걸어가 만나는 동해의 여유.\n\n객실에는 자이글이 준비되어 편안한 취사가 가능하고,\n야외 공용 바베큐 공간에서 함께하는 즐거운 저녁 시간.\n\n여행의 설렘을 담아,\n편안하게 머물다 가는 더끌림의 하루."
+                "description": "용화해변 가까이, 바다로 향하는 발걸음이 가벼워지는 곳.\n산책하듯 걸어가 만나는 동해의 여유.\n\n객실에는 자이글이 준비되어 편안한 취사가 가능하고,\n야외 공용 바베큐 공간에서는 함께하는 \n즐거운 저녁 시간을 보낼 수 있습니다.\n\n여행의 설렘을 담아,\n편안하게 머물다 가는 더끌림의 하루."
               },
               "gallery": {
                 "title": "Preview",
@@ -1419,7 +1426,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "푸른 동해가 눈앞에 펼쳐지는 곳, 삼척 더끌림 펜션.\n전 객실 오션뷰로 어디에서나 바다를 마주하는 특별한 순간을 선사합니다.\n\n객실 내 개별 바베큐 공간이 마련되어\n프라이빗하게 즐기는 맛있는 시간과 여유를 동시에 누릴 수 있습니다.\n\n파도 소리를 배경으로 머무는 하루,\n더끌림에서 바다와 함께하는 가장 완벽한 휴식을 경험해보세요."
+                "description": "용화해변 가까이, 바다로 향하는 발걸음이 가벼워지는 곳.\n산책하듯 걸어가 만나는 동해의 여유.\n\n객실에는 자이글이 준비되어 편안한 취사가 가능하고,\n야외 공용 바베큐 공간에서는 함께하는 \n즐거운 저녁 시간을 보낼 수 있습니다.\n\n여행의 설렘을 담아,\n편안하게 머물다 가는 더끌림의 하루."
               },
               "about": [
                 {
@@ -1441,8 +1448,8 @@
                   "title": " ",
                   "images": [
                     {
-                      "id": "9961d483-8ead-48e5-a05e-b4013b3a6209",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/main_about/1770941974871-9ke0gvkq0pv.jpg",
+                      "id": "029f7e0e-94ab-42e4-a0ad-a880ebab7ff3",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/main_about/1771559012384-q16d1eyhh3f.jpg",
                       "sortOrder": 1,
                       "description": "",
                       "isSelected": true,
@@ -1450,7 +1457,7 @@
                     }
                   ],
                   "blockId": "ea481202-a21f-4458-bae2-eea50c9f2f91",
-                  "description": "전 객실 통창 오션뷰, 시야 가득 펼쳐지는 바다\n탁 트인 전경이 머무는 순간을 더욱 특별하게 만듭니다.\n창 너머 파도와 하늘을 바라보며 즐기는 여유\n바다를 배경으로 감성적인 쉼을 완성하세요."
+                  "description": "객실에서 은은하게 전해지는 바다의 분위기\n가볍게 걸어가면 만날 수 있는 해변의 여유\n일상에서 벗어나 천천히 흐르는 시간\n편안하게 머물며 여행의 감성을 채워보세요."
                 }
               ]
             }
