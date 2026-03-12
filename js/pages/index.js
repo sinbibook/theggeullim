@@ -420,7 +420,7 @@
         newThumb1Img.style.width = '100%';
         newThumb1Img.style.height = '100%';
         newThumb1Img.style.objectFit = 'cover';
-        newThumb1Img.style.borderRadius = '100px 100px 0 0';
+        newThumb1Img.style.borderRadius = '0';
         newThumb1Img.style.maxWidth = '100%';
         newThumb1Img.style.maxHeight = '100%';
 
@@ -432,7 +432,7 @@
         newThumb2Img.style.width = '100%';
         newThumb2Img.style.height = '100%';
         newThumb2Img.style.objectFit = 'cover';
-        newThumb2Img.style.borderRadius = '100px 100px 0 0';
+        newThumb2Img.style.borderRadius = '0';
         newThumb2Img.style.maxWidth = '100%';
         newThumb2Img.style.maxHeight = '100%';
 
@@ -444,7 +444,7 @@
         newMainImg.style.width = '100%';
         newMainImg.style.height = '100%';
         newMainImg.style.objectFit = 'cover';
-        newMainImg.style.borderRadius = '275px 275px 0 0';
+        newMainImg.style.borderRadius = '0';
         newMainImg.style.maxWidth = '100%';
         newMainImg.style.maxHeight = '100%';
         newMainImg.style.overflow = 'hidden';
@@ -478,7 +478,7 @@
         actualMainContainer.style.width = '100%';
         actualMainContainer.style.height = '100%';
         // 돔 모양 클리핑: border-radius 275px 275px 0 0과 동일한 효과
-        actualMainContainer.style.clipPath = 'inset(0 0 0 0 round 275px 275px 0 0)';
+        actualMainContainer.style.clipPath = 'none';
         actualMainContainer.style.isolation = 'isolate';
 
         actualMainContainer.insertBefore(newMainImg, mainImg);
@@ -491,7 +491,7 @@
         wipeOverlay1.style.width = '100%';
         wipeOverlay1.style.height = '100%';
         wipeOverlay1.style.background = `url('${currentThumb1Src}') center/cover`;
-        wipeOverlay1.style.borderRadius = '100px 100px 0 0';
+        wipeOverlay1.style.borderRadius = '0';
         wipeOverlay1.style.zIndex = '10';
         wipeOverlay1.style.transition = 'width 0.8s ease-in-out';
 
@@ -502,7 +502,7 @@
         wipeOverlay2.style.width = '100%';
         wipeOverlay2.style.height = '100%';
         wipeOverlay2.style.background = `url('${currentThumb2Src}') center/cover`;
-        wipeOverlay2.style.borderRadius = '100px 100px 0 0';
+        wipeOverlay2.style.borderRadius = '0';
         wipeOverlay2.style.zIndex = '10';
         wipeOverlay2.style.transition = 'width 0.8s ease-in-out';
 
@@ -513,7 +513,7 @@
         wipeOverlayMain.style.width = '100%';
         wipeOverlayMain.style.height = '100%';
         wipeOverlayMain.style.background = `url('${currentMainSrc}') center/cover`;
-        wipeOverlayMain.style.borderRadius = '275px 275px 0 0';
+        wipeOverlayMain.style.borderRadius = '0';
         wipeOverlayMain.style.zIndex = '10';
         wipeOverlayMain.style.transition = 'width 0.8s ease-in-out';
         wipeOverlayMain.style.contain = 'layout style paint';
