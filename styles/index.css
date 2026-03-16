@@ -1055,6 +1055,16 @@
 
 /* Closing Section Mobile */
 @media (max-width: 768px) {
+    .hero-section {
+        height: 70vh;
+        min-height: 70vh;
+    }
+
+    .closing-section {
+        height: 50vh;
+        min-height: 400px;
+    }
+
     .closing-content {
         padding-left: 40px;
         gap: 30px;
