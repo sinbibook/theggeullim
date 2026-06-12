@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.32.0",
-    "generatedAt": "2026-05-18T05:44:04.182772492Z",
+    "version": "1.33.0",
+    "generatedAt": "2026-06-12T09:19:32.444525375Z",
     "templateType": "full_banner_wipe",
     "propertyId": "7656873f-d928-414f-876a-c3b3356ec3eb",
     "homepageId": "abb60682-6181-4003-9701-9b504c233c61"
@@ -362,7 +362,9 @@
     "refundSettings": {
       "customerRefundNotice": "",
       "immediateRefundEnabled": false,
-      "immediateRefundTimeLimit": "60"
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "60",
+      "sameDayReservationHourLimit": null
     },
     "images": [
       {
@@ -2172,6 +2174,12 @@
               }
             }
           ]
+        },
+        "layoutMap": {
+          "sections": [ ]
+        },
+        "nearbyAttractions": {
+          "sections": [ ]
         }
       },
       "theme": {
@@ -2201,7 +2209,29 @@
         }
       },
       "popup": {
-        "popups": [ ]
+        "popups": [
+          {
+            "id": "1c9e216c-100b-4020-971d-1bb6f197ffab",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "45fab0f1-3d36-485d-9a03-19122e657fa7",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/abb60682-6181-4003-9701-9b504c233c61/popup/1781255969936-svlaw9p8ky.jpg",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "1c9e216c-100b-4020-971d-1bb6f197ffab"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": "2026-07-31",
+            "sortOrder": 0,
+            "startDate": "2026-06-12",
+            "description": ""
+          }
+        ]
       },
       "property": {
         "images": [
